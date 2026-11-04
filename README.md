@@ -37,7 +37,7 @@ Label convention (identical to the original dataset):
 
 ### What the corrections look like
 
-![Examples of the four label-problem types](figures/annotation_examples.png)
+![Examples of the four label-problem types](annotation_examples.png)
 
 Four representative images, one per problem type (left to right: original EL image, original
 annotation, corrected annotation). The red box marks the region under discussion; masks are
